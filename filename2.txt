@@ -3,3 +3,4 @@ azure is owned by microsoft
 aws provied more flexibility
 azure provides less flexibility
 marketing share 40%-aws and 30%-azure
+thank you
